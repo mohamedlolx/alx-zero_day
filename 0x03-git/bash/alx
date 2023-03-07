@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "The school is open!"
+=======
+<<<<<<< HEAD
+echo "ALX School is so cool!"
+=======
+echo "The school is open!"
+>>>>>>> update_script
+>>>>>>> master
